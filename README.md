@@ -7,10 +7,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning Pytorch
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ... -->
+<!-- - 👯 I’m looking to collaborate on ...-->
+- 🤔 I’m looking for help with mastering Python
+<!-- - 💬 Ask me about ...-->
+- 📫 How to reach me: @tollcopier on X
+- 😄 Pronouns: He/Him 
 - ⚡ Fun fact: Penguins have knees
 
