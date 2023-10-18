@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 <!-- - 💬 Ask me about ...-->
 - 🌱 I’m currently learning Pytorch
 - 🤔 I’m looking for help with mastering Python
-- 📫 How to reach me: @tollcopier on X
+- 📫 How to reach me: [@tollcopier](https://twitter.com/tollcopier)
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: Penguins have knees
 
