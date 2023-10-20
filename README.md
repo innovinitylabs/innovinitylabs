@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 <!-- - 👯 I’m looking to collaborate on ...-->
 <!-- - 💬 Ask me about ...-->
 - 🌱 I’m currently learning Pytorch
-- 🤔 I’m looking for help with mastering Python
+- 🤔 I’m looking for help with Learning & mastering Python & ML
 - 📫 How to reach me: [@tollcopier](https://twitter.com/tollcopier)
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: Penguins have knees
