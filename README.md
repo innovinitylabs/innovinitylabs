@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Penguins have knees
 
 
-![](https://github-readme-stats.vercel.app/api?username=innovinitylabs&show_icons=true&theme=radical)
+<!--![](https://github-readme-stats.vercel.app/api?username=innovinitylabs&show_icons=true&theme=radical)
