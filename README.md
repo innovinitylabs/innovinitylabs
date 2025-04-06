@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... -->
 <!-- - 👯 I’m looking to collaborate on ...-->
 <!-- - 💬 Ask me about ...-->
-- 🌱 I’m currently learning Pytorch
+- 🌱 I’m currently learning Dune
 - 🤔 I’m looking for help with Learning & mastering Python & ML
 - 📫 How to reach me: [@valipokkann](https://twitter.com/valipokkann)
 - ⚡ Fun fact: Penguins have knees
