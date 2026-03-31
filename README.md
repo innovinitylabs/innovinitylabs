@@ -1,10 +1,10 @@
 # VALIPOKKANN (R********r)
 
-Artist/Engineer building generative systems, on-chain applications, and experimental software.
+Artist / Engineer building generative systems, on-chain applications, and experimental software.
 
-Background in data engineering and distributed systems.  
+Background in data engineering and distributed systems.
+
 Currently exploring the intersection of:
-
 • generative algorithms  
 • on-chain rendering  
 • GPU compute  
@@ -15,19 +15,18 @@ Crypto-native since 2020.
 
 ---
 
-## Featured Projects
+## Selected Work
 
 ### Free Notes
 iPad notebook application with real-time geometric shape recognition and layered PDF compositor.
 
 Tech  
-Swift • PencilKit • CoreGraphics • computational geometry
+Swift • PencilKit • CoreGraphics • computational geometry  
 
 Key ideas  
 • multi-candidate shape fitting (ellipse, rectangle, triangle, arc)  
 • PCA-based ellipse detection  
 • layered document architecture for drawing and PDF annotation  
-
 
 ---
 
@@ -35,13 +34,12 @@ Key ideas
 Fully on-chain generative NFT system with deterministic rendering.
 
 Tech  
-Solidity • Scripty.sol • EthFS • Next.js • Redis
+Solidity • Scripty.sol • EthFS • Next.js • Redis  
 
 Key ideas  
-• HTML art rendered directly from on-chain data  
-• Diamond smart contract architecture (EIP-2535)  
+• HTML rendering directly from on-chain data  
+• Diamond contract architecture (EIP-2535)  
 • AI-driven maintenance agents with micropayments  
-
 
 ---
 
@@ -49,27 +47,25 @@ Key ideas
 Generative textile engine inspired by traditional South Indian Madras check fabrics.
 
 Tech  
-Canvas API • deterministic PRNG algorithms • cloth-flow simulation
+Canvas API • deterministic PRNG • cloth-flow simulation  
 
 Key ideas  
 • seeded generative patterns  
 • physics-inspired cloth deformation  
 • reproducible high-resolution textile outputs  
 
-
 ---
 
 ### Shapes of Mind
-AI-driven generative flower NFTs mapping mood text into procedural 3D art.
+AI-driven generative flower NFTs mapping mood text into procedural 3D forms.
 
 Tech  
-Python • scikit-learn • Three.js • Next.js
+Python • scikit-learn • Three.js • Next.js  
 
 Key ideas  
-• emotion classification → 3D parameters  
-• procedural geometry for petals and stalks  
+• emotion classification → geometry parameters  
+• procedural petal and structure generation  
 • streak-based behavioral animation  
-
 
 ---
 
@@ -79,18 +75,20 @@ Key ideas
 • WebGL flight engine with ECS architecture  
 • procedural textile rendering experiments  
 
-
 ---
 
-## Engineering Interests
+## Engineering Focus
 
-I enjoy building systems where
+Building systems where:
 
 mathematics  
 graphics  
 code  
-and culture
+culture  
 
 intersect.
 
-Particularly interested in deterministic generative systems and on-chain computation.
+Focus areas:
+• deterministic generative systems  
+• on-chain computation  
+• real-time rendering pipelines
