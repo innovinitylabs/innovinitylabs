@@ -1,8 +1,8 @@
 # VALIPOKKANN (R********r)
 
-Artist / Engineer building generative systems, on-chain applications, and experimental software.
+Software Engineer building generative systems, on-chain applications, and experimental software.
 
-Background in data engineering and distributed systems.
+Background in data engineering, backend systems, and distributed software.
 
 Currently exploring the intersection of:
 • generative algorithms  
